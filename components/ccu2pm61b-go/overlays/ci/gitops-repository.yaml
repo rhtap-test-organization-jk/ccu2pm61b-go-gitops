@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ccu2pm61b-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/ccu2pm61b-go-gitops
